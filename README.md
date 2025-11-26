@@ -16,7 +16,7 @@ The study synthesizes two foundational papers by **Assenmacher & Trautmann** to 
 2.  **The Engine:** Textual One-Pass Stream Clustering with Automated Distance Threshold Adaptation (2022).
 
 ### 🎯 Research Goal
-The goal is to empirically demonstrate that the **Automated Distance Threshold Adaptation** ($\text{auto\_r}$) introduced in the 2022 methodology is a prerequisite for the reliability of the 2020 Framework. We compare the **Adaptive** algorithm against a **Fixed Threshold** baseline across multiple datasets to measure stability under high-velocity concept drift.
+The goal is to empirically demonstrate that the **Automated Distance Threshold Adaptation**  introduced in the 2022 methodology is a prerequisite for the reliability of the 2020 Framework. We compare the **Adaptive** algorithm against a **Fixed Threshold** baseline across multiple datasets to measure stability under high-velocity concept drift.
 
 ---
 
@@ -156,6 +156,3 @@ The benchmark datasets (`Tweets-T`, `News-T`) are derived from standard short-te
   * Master's Student, Computer Science
   * University of Paderborn
   * Seminar: Textual Data Streams and Social Media Analytics (Winter 2025)
-
-```
-```
