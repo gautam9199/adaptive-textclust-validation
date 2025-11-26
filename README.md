@@ -1,4 +1,3 @@
-````markdown
 # Adaptive textClust Validation
 ### Validating the Robustness of a Two-Phase Manipulation Detection Framework
 
@@ -47,8 +46,6 @@ adaptive-textclust-validation/
 ├── requirements.txt           # Python dependencies
 └── README.md                  # Project documentation
 ````
-
------
 
 ## 🚀 Installation & Setup
 
